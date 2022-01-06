@@ -18,6 +18,7 @@ public class GithubTraining {
         System.out.println("Tien la tui");
         System.out.println("Quan la tui");
         System.out.println("Phuong la tui");
+        System.out.println("thnag la tui");
     }
     
 }
