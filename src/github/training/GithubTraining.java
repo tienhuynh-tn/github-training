@@ -16,6 +16,7 @@ public class GithubTraining {
      */
     public static void main(String[] args) {
         System.out.println("Tien la tui");
+        System.out.println("Quan la tui");
     }
     
 }
