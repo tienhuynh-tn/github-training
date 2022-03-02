@@ -15,7 +15,7 @@ public class GithubTraining {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Tien 5 la tui");
+        System.out.println("Tien 7 la tui");
         System.out.println("Quan la tui");
         System.out.println("Phuong la tui");
         System.out.println("thnag la tui");
