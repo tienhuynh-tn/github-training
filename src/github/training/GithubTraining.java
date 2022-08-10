@@ -22,3 +22,5 @@ public class GithubTraining {
     }
     
 }
+
+Hello, practice folk!!! hehe
